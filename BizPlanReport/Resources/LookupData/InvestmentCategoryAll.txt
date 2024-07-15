@@ -1,0 +1,15 @@
+﻿Head Count - Presales - Existing HC
+Head Count - Tip Of the Spear Consultants - Existing HC
+Head Count - Presales - Additional HC
+Head Count - Tip Of the Spear Consultants - Additional HC
+KUSD - Branding
+KUSD - Employee Retention
+KUSD - Infrastructure
+KUSD - L&P
+KUSD - Marketing Events
+KUSD - Others
+KUSD - Partners
+Head Count - Analyst Relations
+Head Count - Service R&D - Existing HC
+Head Count - Service R&D - Additional HC
+KUSD - Service R&D

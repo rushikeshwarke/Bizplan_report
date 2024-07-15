@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F4038D3-3129-434C-8A5D-C035472FA51A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BizPlanReport</RootNamespace>
+    <AssemblyName>BizPlanReport</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication>disabled</IISExpressAnonymousAuthentication>
+    <IISExpressWindowsAuthentication>enabled</IISExpressWindowsAuthentication>
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML, Version=0.76.0.0, Culture=neutral, PublicKeyToken=fd1eb21b62ae805b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=3.0.0.2, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.4\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.4\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Common\ErrorEntity.cs" />
+    <Compile Include="Common\Extension.cs" />
+    <Compile Include="Common\LookUpFinder.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Upload\BE_CoreDigitalSplitReport.aspx.cs">
+      <DependentUpon>BE_CoreDigitalSplitReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Upload\BE_CoreDigitalSplitReport.aspx.designer.cs">
+      <DependentUpon>BE_CoreDigitalSplitReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Upload\Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Upload\Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Upload\Biz.Designer.cs" />
+    <Compile Include="Upload\Biz1.Designer.cs" />
+    <Compile Include="Upload\BizPlan.aspx.cs">
+      <DependentUpon>BizPlan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Upload\BizPlan.aspx.designer.cs">
+      <DependentUpon>BizPlan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Upload\Download.aspx.cs">
+      <DependentUpon>Download.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Upload\Download.aspx.designer.cs">
+      <DependentUpon>Download.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Upload\Input_Data.cs">
+      <DependentUpon>Input_Data.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Upload\Input_Data.Designer.cs" />
+    <Compile Include="Upload\Sheets\BaseSheet.cs" />
+    <Compile Include="Upload\Sheets\InfosysAssetsPlan.cs" />
+    <Compile Include="Upload\Sheets\InOrganicSLRev.cs" />
+    <Compile Include="Upload\Sheets\InvestmentSL.cs" />
+    <Compile Include="Upload\Sheets\Investment_SL_Practice_Sales.cs" />
+    <Compile Include="Upload\Sheets\Investment_Solution_RandD.cs" />
+    <Compile Include="Upload\Sheets\ISheetInfo.cs" />
+    <Compile Include="Upload\Sheets\OrganicAccRevenue.cs" />
+    <Compile Include="Upload\Sheets\SLVolume.cs" />
+    <Compile Include="Upload\Sheets\StartupNewAllianceEcosystem.cs" />
+    <Compile Include="Upload\Upload.aspx.cs">
+      <DependentUpon>Upload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Upload\Upload.aspx.designer.cs">
+      <DependentUpon>Upload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Upload\Upload_PartialSPlit.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bootstrap-3.3.6-dist\bootbox.min.js" />
+    <Content Include="bootstrap-3.3.6-dist\bootstrap.min.js" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap-theme.css" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap-theme.min.css" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap.css" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap.min.css" />
+    <Content Include="bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bootstrap-3.3.6-dist\jquery-1.10.2.js" />
+    <Content Include="bootstrap-3.3.6-dist\js\bootstrap.js" />
+    <Content Include="bootstrap-3.3.6-dist\js\bootstrap.min.js" />
+    <Content Include="bootstrap-3.3.6-dist\js\npm.js" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Upload\BE_CoreDigitalSplitReport.aspx" />
+    <Content Include="Upload\Error.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\Site.css" />
+    <Content Include="loadimg\ajax-loader.gif" />
+    <Content Include="loadimg\ajax-loader1.gif" />
+    <Content Include="loadimg\loading.gif" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap-theme.css.map" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap-theme.min.css.map" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap.css.map" />
+    <Content Include="bootstrap-3.3.6-dist\css\bootstrap.min.css.map" />
+    <Content Include="bootstrap-3.3.6-dist\css\vssver2.scc" />
+    <Content Include="bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="bootstrap-3.3.6-dist\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="bootstrap-3.3.6-dist\fonts\vssver2.scc" />
+    <Content Include="bootstrap-3.3.6-dist\js\vssver2.scc" />
+    <Content Include="loadimg\vssver2.scc" />
+    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Select2\JScriptSelect2.js" />
+    <Content Include="Select2\select2.css" />
+    <Content Include="Upload\BizPlan.aspx" />
+    <Content Include="Upload\Download.aspx" />
+    <Content Include="Upload\EAS Column Name.txt" />
+    <Content Include="Upload\error1.png" />
+    <Content Include="Upload\SiteError.css" />
+    <Content Include="Upload\Upload.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Select2\vssver2.scc" />
+    <Content Include="UploadOperations\EAIS.xlsx" />
+    <Content Include="UploadOperations\EAIS_2.xlsx" />
+    <Content Include="UploadOperations\eais_upload.xlsx" />
+    <Content Include="UploadOperations\EAS-EAIS-FY17-21_Biz_Plan_Template_v11.xlsx" />
+    <Content Include="UploadOperations\EAS-ECAS-FY17-21_Biz_Plan_Template_v11.xlsx" />
+    <Content Include="UploadOperations\EAS-ECAS-FY17-21_Biz_Plan_Template_v4_02012018_Raghu_v3.1 final.xlsx" />
+    <Content Include="UploadOperations\EASEAIS_FY17-23_Biz_Plan_Template_v1.4.1.xlsx" />
+    <Content Include="UploadOperations\EASEAIS_FY17-23_Biz_Plan_Template_v1.4.2.xlsx" />
+    <Content Include="UploadOperations\EASORC_FY17-21_Biz_Plan_Template_v12.xlsx" />
+    <Content Include="UploadOperations\EASORC_FY17-21_Biz_Plan_Template_v12_Updated_v05.xlsx" />
+    <Content Include="UploadOperations\EASORC_FY17-23_Biz_Plan_Template_v1.1_v11.xlsx" />
+    <Content Include="UploadOperations\EASORC_FY17-23_Biz_Plan_Template_v1.1_v12.xlsx" />
+    <Content Include="UploadOperations\EASORC_FY17-23_Biz_Plan_Template_v1.1_v13.xlsx" />
+    <Content Include="UploadOperations\EASORC_FY17-23_Biz_Plan_Template_v1.1_v14.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY17-21_Biz_Plan_Template_v11.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY17-23_Biz_Plan_v6.0.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY17-23_Biz_Plan_v7.0.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY19-21_Biz_Plan_v0.1.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY19-21_Biz_Plan_v0.2.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY19-21_Biz_Plan_v0.3.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY19-21_Biz_Plan_v0.4.xlsx" />
+    <Content Include="UploadOperations\EASSAP_FY19-21_Biz_Plan_v0.5.xlsx" />
+    <Content Include="UploadOperations\ECAS.xlsx" />
+    <Content Include="UploadOperations\formatted.xlsx" />
+    <Content Include="UploadOperations\ORC-ForTesting  excel operations.xlsx" />
+    <Content Include="UploadOperations\ORC-ForTesting.xlsx" />
+    <Content Include="UploadOperations\orc.xlsx" />
+    <Content Include="UploadOperations\ORC1.xlsx" />
+    <Content Include="UploadOperations\orc_upload.xlsx" />
+    <Content Include="UploadOperations\SAP.xlsx" />
+    <Content Include="UploadOperations\uploadfile11.xlsx" />
+    <Content Include="Upload\Biz.xsc">
+      <DependentUpon>Biz.xsd</DependentUpon>
+    </Content>
+    <None Include="Upload\Biz.xsd" />
+    <Content Include="Upload\Biz.xss">
+      <DependentUpon>Biz.xsd</DependentUpon>
+    </Content>
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Karthik_Mahalingam01_11Dec2019_0959IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Karthik_Mahalingam01_27Nov2019_1305IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_03Dec2019_1334IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_03Dec2019_1528IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_03Dec2019_1723IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_03Dec2019_1850IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_03Dec2019_1904IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1200IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1209IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1219IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1225IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1242IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1511IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1635IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1716IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_04Dec2019_1808IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_05Nov2019_0909IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_07Nov2019_1609IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_07Nov2019_1659IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_Murugaraj.K_07Nov2019_1757IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_sridevi_srirangan_04Dec2019_1410IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_sridevi_srirangan_04Dec2019_1416IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data_sridevi_srirangan_04Dec2019_1420IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data__07Nov2019_1439IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data__07Nov2019_1455IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data__12Dec2019_1640IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_EAS_data__12Dec2019_1659IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_ECAS_data_murugaraj.k_13Dec2019_1527IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_ORC_data_murugaraj.k_13Dec2019_1549IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_ORC_data__13Dec2019_1520IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_SAP_data__13Dec2019_1150IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_SAP_data__13Dec2019_1342IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\BizPlan_SAP_data__13Dec2019_1511IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_0920IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_0933IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1052IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1057IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1119IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1207IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1248IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1319IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1610IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_03Dec2019_1627IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_04Dec2019_1039IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_07Nov2019_1006IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_07Nov2019_1458IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_07Nov2019_1633IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_07Nov2019_1739IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_09Dec2019_1225IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_09Dec2019_1236IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_09Dec2019_1520IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAIS_Service_Line_BPlan_11Dec2019_0950IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EASORC_FY17-23_Biz_Plan_Template.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_ORC_FY17-23_Biz_Plan_Template.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_SAP_FY17-23_Biz_Plan_Template.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1022IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1108IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1121IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1225IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1227IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1228IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1248IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1313IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_03Dec2019_1322IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_04Dec2019_1038IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_04Dec2019_1215IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_05Nov2019_0859IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1007IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1441IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1501IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1518IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1529IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1601IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1603IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1610IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1628IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1647IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1727IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_07Nov2019_1738IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_09Dec2019_1236IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_09Dec2019_1340IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_09Dec2019_1349IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_09Dec2019_1519IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_11Dec2019_0947IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_12Dec2019_1617IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_12Dec2019_1618IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_12Dec2019_1627IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_21Jan2020_1034IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_27Nov2019_1159IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_27Nov2019_1200IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_27Nov2019_1203IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_27Nov2019_1214IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_28Nov2019_1004IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\EAS_Service_Line_BPlan_28Nov2019_1005IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_0953IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_0957IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1003IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1101IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1110IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1119IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1208IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1301IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1305IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_03Dec2019_1319IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_04Dec2019_1038IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_07Nov2019_1007IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_07Nov2019_1445IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_07Nov2019_1611IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_07Nov2019_1632IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_07Nov2019_1739IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ECAS_Service_Line_BPlan_21Jan2020_1438IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_02Dec2019_1535IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_0844IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_0948IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_0955IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_1057IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_1118IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_1209IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_1320IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_03Dec2019_1719IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_04Dec2019_1040IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_04Dec2019_1143IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_04Dec2019_1204IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_04Dec2019_1215IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_07Nov2019_1006IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_07Nov2019_1459IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_07Nov2019_1551IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_07Nov2019_1553IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_07Nov2019_1559IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_07Nov2019_1633IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_07Nov2019_1739IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1042IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1051IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1124IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1125IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1134IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1135IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1136IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_27Nov2019_1138IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_28Nov2019_0948IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_28Nov2019_0959IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_28Nov2019_1019IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_28Nov2019_1022IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_28Nov2019_1049IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_28Nov2019_1055IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\ORC_Service_Line_BPlan_28Nov2019_1059IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_0909IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_0911IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1004IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1011IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1018IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1046IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1052IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1056IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1110IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1113IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1118IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1120IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1210IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1320IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_03Dec2019_1726IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_04Dec2019_1040IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_07Nov2019_1004IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_07Nov2019_1504IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_07Nov2019_1554IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_07Nov2019_1633IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_07Nov2019_1740IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_09Dec2019_1520IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_12Dec2019_1627IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_12Dec2019_1629IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_27Nov2019_1208IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_27Nov2019_1210IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_27Nov2019_1213IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_27Nov2019_1232IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\SAP_Service_Line_BPlan_28Nov2019_1129IST.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\BizPlan_CDO_Template.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\BizPlan_EAS_data_digital_template.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\BizPlan_EAS_data_template.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\BizPlan_EAS_data_template_Fluido.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\BizPlan_SL_data_template.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\Biz_Plan_Input_Template.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\Summary deck 2 template.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\~%24BizPlan_EAS_data.xlsx" />
+    <Content Include="Upload\ExcelOperations\Template\~%24BizPlan_EAS_data_template.xlsx" />
+    <Content Include="Upload\Input_Data.xsc">
+      <DependentUpon>Input_Data.xsd</DependentUpon>
+    </Content>
+    <None Include="Upload\Input_Data.xsd" />
+    <Content Include="Upload\Input_Data.xss">
+      <DependentUpon>Input_Data.xsd</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57866</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:57867/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

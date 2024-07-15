@@ -1,0 +1,8963 @@
+ xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 10
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 12
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 1
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 1
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 10
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 12
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 1
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 1
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 10
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 12
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 1
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 1
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 10
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 12
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 1
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 1
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 12
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 8
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 1
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 1
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 11
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 8
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 0
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 0
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 11
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 8
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 0
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 0
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 11
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 8
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 0
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 0
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+SL_Acc_Flag
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 11
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 8
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 0
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 0
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+FY20 REV (31-Mar) (KUSD)
+FY20  RPP (USD)
+FY21 ACT REV (31-Mar) (KUSD)
+FY21 ACT RPP (USD)
+FY22 ACT _REV (31-Mar) (KUSD)
+FY22 ACT RPP (USD)
+FY23 EST _REV (31-Mar) (KUSD)
+FY23 TD EST RPP (USD)
+Q1'24 EST REV in _KUSD
+Q2'24 EST REV in _KUSD
+Q3'24 EST REV in _KUSD
+Q4'24 EST REV in _KUSD
+FY'24 EST REV in _KUSD
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+FY'24 EST RPP
+Remarks for RPP
+Q1'24 EST VOL in PMs
+Q2'24 EST VOL in PMs
+Q3'24 EST VOL in PMs
+Q4'24 EST VOL in PMs
+FY24 EST VOL in PMs
+FY'25 EST REV in _KUSD
+FY'25 EST RPP
+FY'25 EST VOL in PMs
+FY'26 EST REV in _KUSD
+FY'26 EST RPP
+FY'26 EST VOL in PMs
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+Service Line
+Services Type
+b
+Service Line
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 11
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 8
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 0
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 2
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 0
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 3056
+------------------
+Service Line~SL
+Services Type~Services_Type
+Q1'24 EST RPP~FY1Q1_EST_RPP_USD
+Q2'24 EST RPP~FY1Q2_EST_RPP_USD
+Q3'24 EST RPP~FY1Q3_EST_RPP_USD
+Q4'24 EST RPP~FY1Q4_EST_RPP_USD
+Remarks for RPP~FY1_Notes_for_RPP_changes
+FY'25 EST RPP~FY2Q4_EST_RPP_USD
+FY'26 EST RPP~FY3Q4_EST_RPP_USD
+rows count 0
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 0
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 0
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 0
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 0
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in _KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+FY24 EST Mined Biz# in KNC
+FY24 EST Confirmed Biz# in KNC
+FY25 EST Mined Biz# in KNC
+FY25 EST Confirmed Biz# in KNC
+FY26 EST Mined Biz# in KNC
+FY26 EST Confirmed Biz# in KNC
+FY24 EST Mined Biz# in KUSD
+FY24 EST Confirmed Biz# in KUSD
+FY25 EST Mined Biz# in KUSD
+FY25 EST Confirmed Biz# in KUSD
+FY26 EST Mined Biz# in KUSD
+FY26 EST Confirmed Biz# in KUSD
+FY23 New Biz#
+FY24 New Biz#
+FY25 New Biz#
+FY26 New Biz#
+PU
+Check
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+F1
+** Suggest to input RPP after completion of revenues
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+#REF_
+F13
+F14
+F15
+F16
+FY24 RPP
+F18
+F19
+F20
+F21
+F22
+FY24 EST VOL
+F24
+F25
+F26
+F27
+#REF_1
+FY25 RPP
+FY25 EST VOL
+#REF_2
+FY26 RPP
+FY26 EST VOL
+DictMapping columns
+Service Line
+Services Type
+Q1'24 EST RPP
+Q2'24 EST RPP
+Q3'24 EST RPP
+Q4'24 EST RPP
+Remarks for RPP
+FY'25 EST RPP
+FY'26 EST RPP
+278
+285
+Service Line
+Services Type
+a
+b
+Service Line
+--
+Service Line
+Services Type
+--
+Services Type
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in _KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+FY24 EST Mined Biz# in KNC
+FY24 EST Confirmed Biz# in KNC
+FY25 EST Mined Biz# in KNC
+FY25 EST Confirmed Biz# in KNC
+FY26 EST Mined Biz# in KNC
+FY26 EST Confirmed Biz# in KNC
+FY24 EST Mined Biz# in KUSD
+FY24 EST Confirmed Biz# in KUSD
+FY25 EST Mined Biz# in KUSD
+FY25 EST Confirmed Biz# in KUSD
+FY26 EST Mined Biz# in KUSD
+FY26 EST Confirmed Biz# in KUSD
+FY23 New Biz#
+FY24 New Biz#
+FY25 New Biz#
+FY26 New Biz#
+PU
+Check
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+a
+Service Line
+b
+Service Line
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+F14
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in _KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+FY24 EST Mined Biz# in KNC
+FY24 EST Confirmed Biz# in KNC
+FY25 EST Mined Biz# in KNC
+FY25 EST Confirmed Biz# in KNC
+FY26 EST Mined Biz# in KNC
+FY26 EST Confirmed Biz# in KNC
+FY24 EST Mined Biz# in KUSD
+FY24 EST Confirmed Biz# in KUSD
+FY25 EST Mined Biz# in KUSD
+FY25 EST Confirmed Biz# in KUSD
+FY26 EST Mined Biz# in KUSD
+FY26 EST Confirmed Biz# in KUSD
+FY23 New Biz#
+FY24 New Biz#
+FY25 New Biz#
+FY26 New Biz#
+PU
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+a
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+b
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+F14
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+289
+297
+xl columns
+Service Line
+Services Type
+Master Customer Code
+Master Customer Name
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q1'20 ACT REV in _KNC
+Q2'20 ACT REV in _KNC
+Q3'20 ACT REV in _KNC
+Q4'20 ACT REV in _KNC
+FY20 ACT REV in _KNC
+Q1'21 ACT REV in _KNC
+Q2'21 ACT REV in _KNC
+Q3'21 ACT REV in _KNC
+Q4'21 ACT REV in _KNC
+FY21 ACT _REV in _KNC
+Q1'22 ACT REV in _KNC
+Q2'22 ACT REV in _KNC
+Q3'22 ACT REV in _KNC
+Q4'22 ACT REV in _KNC
+FY22 ACT REV in _KNC
+Q1'23 ACT REV in KNC
+Q2'23 ACT REV in KNC
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+FY23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+Q1'20 ACT REV in KUSD
+Q2'20 ACT REV in KUSD
+Q3'20 ACT REV in KUSD
+Q4'20 ACT REV in KUSD
+FY20 ACT REV in KUSD
+Q1'21 ACT REV in KUSD
+Q2'21 ACT REV in KUSD
+Q3'21 ACT REV in KUSD
+Q4'21 ACT REV in KUSD
+FY21 ACT _REV in _KUSD
+Q1'22 ACT REV in KUSD
+Q2'22 ACT REV in KUSD
+Q3'22 ACT REV in KUSD
+Q4'22 ACT REV in KUSD
+FY22 ACT _REV in _KUSD
+Q1'23 ACT REV in KUSD
+Q2'23 ACT REV in KUSD
+Q3'23 EST REV in KUSD
+Q4'23 EST REV in KUSD
+FY23 EST _REV in _KUSD
+Q1'24 EST REV in KUSD
+Q2'24 EST REV in KUSD
+Q3'24 EST REV in KUSD
+Q4'24 EST REV in KUSD
+FY24 EST _REV in _KUSD
+FY25 EST _REV in _KUSD
+FY26 EST _REV in _KUSD
+FY24 EST Mined Biz# in KNC
+FY24 EST Confirmed Biz# in KNC
+FY25 EST Mined Biz# in KNC
+FY25 EST Confirmed Biz# in KNC
+FY26 EST Mined Biz# in KNC
+FY26 EST Confirmed Biz# in KNC
+FY24 EST Mined Biz# in KUSD
+FY24 EST Confirmed Biz# in KUSD
+FY25 EST Mined Biz# in KUSD
+FY25 EST Confirmed Biz# in KUSD
+FY26 EST Mined Biz# in KUSD
+FY26 EST Confirmed Biz# in KUSD
+FY23 New Biz#
+FY24 New Biz#
+FY25 New Biz#
+FY26 New Biz#
+PU
+DictMapping columns
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+Vertical
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+Q3'23 EST REV in KNC
+Q4'23 EST REV in KNC
+Q1'24 EST REV in KNC
+Q2'24 EST REV in KNC
+Q3'24 EST REV in KNC
+Q4'24 EST REV in KNC
+FY25 EST REV in KNC
+FY26 EST REV in KNC
+278
+285
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+a
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+b
+Service Line
+Services Type
+Master Customer Code
+Native Currency
+SDM / DH
+RegionGroupLatest
+Alliance Partner
+For Others, pls specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+FY23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Is Asset published in Service Store (Yes/No)
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+Is yes, please mention the Digital Services Name
+FY22
+Q1'23
+Q2'23
+Q3'23 (Plan)
+Q4'23 (Plan)
+Q1 FY24 (Plan)
+Q2 FY24 (Plan)
+Q3 FY24 (Plan)
+Q4 FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+a
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+b
+Service Line
+Sub unit
+Name of Infosys Asset/IP
+Master Customer Code
+Is the revenue currently reported under digital business? Yes/No
+289
+297
+xl columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY24 EST INV
+FY25 EST INV
+FY26 EST INV
+F14
+DictMapping columns
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Investment sub-category
+Remarks (MUST for investment category "Others")
+Q1'24 EST INV
+Q2'24 EST INV
+Q3'24 EST INV
+Q4'24 EST INV
+FY25 EST INV
+FY26 EST INV
+278
+285
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+a
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+b
+Service Line
+Services Type
+SDM / DH
+Investment Category 
+Remarks (MUST for investment category "Others")
+289
+297
+xl columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY24 EST HC
+FY25 EST HC
+FY26 EST HC
+DictMapping columns
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+FY'22 Head Count (HC)
+Current HC
+Current Practice Sales Open Indents
+Q4'23 EST HC
+Q1'24 EST HC
+Q2'24 EST HC
+Q3'24 EST HC
+Q4'24 EST HC
+FY25 EST HC
+FY26 EST HC
+278
+285
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+a
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+b
+Service Line
+Sales Region
+Geo
+Country
+Role Designation
+Job Level
+Offering Area
+Remarks
+289
+297
+xl columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+FY23 (Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY24 (Plan)
+FY25 (Plan)
+FY26 (Plan)
+DictMapping columns
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Service Area
+Any Deal Closed (Won/Open)
+TCV of the Deal_(KUSD)
+FY22
+Q1'23
+Q2'23
+Q3'23_(Plan)
+Q4'23_(Plan)
+Q1 FY24_(Plan)
+Q2 FY24_(Plan)
+Q3 FY24_(Plan)
+Q4 FY24_(Plan)
+FY25 (Plan)
+FY26 (Plan)
+278
+285
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Any Deal Closed (Won/Open)
+a
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Any Deal Closed (Won/Open)
+b
+Service Line
+Sub unit
+Name of the Startup/Alliance
+Master Customer Code
+Any Deal Closed (Won/Open)
+289
+297
+------------------
+Service Line~SL
+Services Type~Services_Type
+Master Customer Code~MCC
+Native Currency~NC
+SDM / DH~SDM_DH
+Vertical~Vertical
+RegionGroupLatest~RegionGroup
+Alliance Partner~Hyperscalers_Alliances
+For Others, pls specify~For_Others_pls_specify
+Cloud Infra Pass-through/SaaS Passthrough/Sevices~Cloud_Consumption_Passthrough
+Q3'23 EST REV in KNC~FY5Q3_EST_REV_KNC
+Q4'23 EST REV in KNC~FY5Q4_EST_REV_KNC
+Q1'24 EST REV in KNC~FY6Q1_EST_REV_KNC
+Q2'24 EST REV in KNC~FY6Q2_EST_REV_KNC
+Q3'24 EST REV in KNC~FY6Q3_EST_REV_KNC
+Q4'24 EST REV in KNC~FY6Q4_EST_REV_KNC
+FY25 EST REV in KNC~FY7Q4_EST_REV_KNC
+FY26 EST REV in KNC~FY8Q4_EST_REV_KNC
+rows count 4038
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of Infosys Asset/IP~Name_of_Infosys_Asset/IP
+Is Asset published in Service Store (Yes/No)~Is_Asset_published_in_Service_Store
+Master Customer Code~Master_Customer_Code
+Is the revenue currently reported under digital business? Yes/No~Is_the_revenue_currently_reported_under_digital_business
+Is yes, please mention the Digital Services Name~Is_yes_please_mention_the_Digital_Services_Name
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23 (Plan)~Q3_FY23(Plan)
+Q4'23 (Plan)~Q4_FY23(Plan)
+Q1 FY24 (Plan)~Q1_FY24(Plan)
+Q2 FY24 (Plan)~Q2_FY24(Plan)
+Q3 FY24 (Plan)~Q3_FY24(Plan)
+Q4 FY24 (Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_F26(Plan)
+rows count 20
+------------------
+Service Line~SL
+Services Type~Services_Type
+SDM / DH~SDM_DH
+Investment Category ~Investment_Category
+Investment sub-category~Investment_sub_category
+Remarks (MUST for investment category "Others")~Remarks
+Q1'24 EST INV~FY1Q1_EST_INV
+Q2'24 EST INV~FY1Q2_EST_INV
+Q3'24 EST INV~FY1Q3_EST_INV
+Q4'24 EST INV~FY1Q4_EST_INV
+FY25 EST INV~FY2Q4_EST_INV
+FY26 EST INV~FY3Q4_EST_INV
+rows count 36
+------------------
+Service Line~SL
+Sales Region~SalesRegion
+Geo~Geo
+Country~Country
+Role Designation~RoleDesignation
+Job Level~JobLevel
+Offering Area~Offering_Area
+Remarks~Remarks
+FY'22 Head Count (HC)~PrevFY_HeadCount
+Current HC~Current_HeadCount
+Current Practice Sales Open Indents~Current_Practice_Sales_Open_Indents
+Q4'23 EST HC~FY1Q4_EST_INV
+Q1'24 EST HC~FY2Q1_EST_INV
+Q2'24 EST HC~FY2Q2_EST_INV
+Q3'24 EST HC~FY2Q3_EST_INV
+Q4'24 EST HC~FY2Q4_EST_INV
+FY25 EST HC~FY3Q4_EST_INV
+FY26 EST HC~FY4Q4_EST_INV
+rows count 11
+------------------
+Service Line~SL
+Sub unit~Sub_unit
+Name of the Startup/Alliance~Name_of_the_Startup/Alliance
+Master Customer Code~Master_Customer_Code
+Service Area~Service_Area
+Any Deal Closed (Won/Open)~Any_Deal_Closed
+TCV of the Deal_(KUSD)~TCV_of_the_Deal_KUSD
+FY22~Q4'22
+Q1'23~Q1_FY23(Plan)
+Q2'23~Q2_FY23(Plan)
+Q3'23_(Plan)~Q3_FY23(Plan)
+Q4'23_(Plan)~Q4_FY23(Plan)
+Q1 FY24_(Plan)~Q1_FY24(Plan)
+Q2 FY24_(Plan)~Q2_FY24(Plan)
+Q3 FY24_(Plan)~Q3_FY24(Plan)
+Q4 FY24_(Plan)~Q4_FY24(Plan)
+FY25 (Plan)~Q4_FY25(Plan)
+FY26 (Plan)~Q4_FY26(Plan)
+rows count 13
